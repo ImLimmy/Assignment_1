@@ -1,0 +1,68 @@
+{
+    "ID": 1,
+    "Name": "Alexandros Macedonia",
+    "Exposure": [
+        {
+            "Date": "1990/07/20",
+            "Deed": "Birth"
+        },
+        {
+            "Date": "1996/10/22",
+            "Deed": "Rolepay of Persian King"
+        },
+        {
+            "Date": "2000/02/15",
+            "Deed": "Play the Pool Party"
+        }
+    ]
+}
+
+
+{
+    "ID": 2,
+    "Name": "Temujin Khan",
+    "Exposure": [
+        {
+            "Date": "1965/01/11",
+            "Deed": "Married"
+        },
+        {
+            "Date": "1985/12/01",
+            "Deed": "Play Internationally"
+        },
+        {
+            "Date": "1990/05/22",
+            "Deed": "Died"
+        }
+    ]
+}
+
+
+{
+    "ID": 3,
+    "Name": "Marc Lim",
+    "Exposure": [
+        {
+            "Date": "2000/01/11",
+            "Deed": "Birth"
+        },
+        {
+            "Date": "2013/03/26",
+            "Deed": "Graduated Elementary"
+        },
+        {
+            "Date": "2017/03/27",
+            "Deed": "Graudated Junior High"
+        },
+        {
+            "Date": "2019/03/27",
+            "Deed": "Graudated Senior High"
+        },
+        {
+            "Date": "2023/09/05",
+            "Deed": "Graduated College"
+        }
+    ]
+}
+
+
